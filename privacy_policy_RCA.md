@@ -16,8 +16,7 @@ Detecting the country of origin is based on the market research but we do not gu
 
 Our application detects and shows the installed application name only and show there alternative. All trademarks and/or copyrights and/or patents are the property of their respective owners.
 
-This is an educational category application only,  developers do not use it for commercial purposes.
 
-# 3. Contact
+# 4. Contact
 
 If you have any questions regarding our Privacy Policy, please feel free to email us at viztushar@gmail.com
